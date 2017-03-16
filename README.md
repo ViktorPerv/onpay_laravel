@@ -1,2 +1,2 @@
 # onpay_laravel
-onpay exstantion for laravel 5.*
+onpay extantion for laravel 5.*
